@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I'm scrypto / low an experienced programmer in C#, Html, Python, Java and im currently learning Rust. I really like food and my favorite is gotta be ramen 😋. My next programming language is gonna be Go or C++.<br>As i heard good things about it im excited to learn it. <br>I make mods for gorilla tag. Im also working on a minecraft launcher called Blackhole Launcher<br>I have many Projects upcoming soon to github.
+Hey, I'm scrypto / low an experienced programmer in C#, Html, Python, Java and im currently learning Go. I really like food and my favorite is gotta be ramen 😋. My next programming language is gonna be Rust or C++.<br>As i heard good things about it im excited to learn it. <br>I make mods for gorilla tag. Im also working on a minecraft launcher called Blackhole Launcher<br>I have many Projects upcoming soon to github.
 
 
 ## 🌐 Socials:
