@@ -11,7 +11,7 @@
 <h2 align="center">🧠 About Me</h2>
 
 <p align="center">
-  ✨ Passionate developer building software across many projects. 💻 I care about clean, efficient code and love learning new tech. 🚀 Always working on something new.
+  ✨ Cool developer working on many projects and i don't know what more to say.
 </p>
 
 <hr>
