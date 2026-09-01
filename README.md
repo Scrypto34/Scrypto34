@@ -1,13 +1,15 @@
-# 💫 About Me:
-Hey, Im Scrypto and i code in many different languages!. 
+<h1 align="center">👋 Hi, I'm Scrypto</h1>
 
+<p align="center">🚀 Developer For Many Projects 💻✨</p>
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Scrypto34&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Scrypto34&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Scrypto34&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Software+Engineer;Cool;Passionate" alt="Typing SVG" />
+</p>
 
-[![](https://komarev.com/ghpvc/?username=Scrypto34&icon=0&color=0)](https://visitcount.itsvg.in)
+<hr>
 
+<h2 align="center">🛠️ Languages</h2>
 
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cs,js,python" alt="Languages" />
+</p>
