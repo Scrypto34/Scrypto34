@@ -18,8 +18,9 @@
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,java,js,vscode,nodejs,linux,rider" alt="Tech Stack" />
-</p>
 <h2 align="center">📂 Projects</h2>
 
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME/parrot.client"><img src="https://img.shields.io/badge/parrot.client-1E90FF?style=for-the-badge&logoColor=white" alt="parrot.client" /></a>
+  <a href="https://github.com/YOUR_USERNAME/au-development"><img src="https://img.shields.io/badge/AU%20Development-7C3AED?style=for-the-badge&logoColor=white" alt="AU Development" /></a>
+</p>
