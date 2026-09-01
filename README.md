@@ -19,7 +19,7 @@
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,java,js,vscode,nodejs,linux,rider&perline=99" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=cs,java,js,vscode,nodejs,linux,rider" alt="Tech Stack" />
 </p>
 
 <hr>
