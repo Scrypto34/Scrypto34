@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Scrypto</h1>
 
-<p align="center">🚀 Developer</p>
+<p align="center">🚀 Developer✨</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Software+Engineer;Cool;Passionate" alt="Typing SVG" />
@@ -11,7 +11,7 @@
 <h2 align="center">🧠 About Me</h2>
 
 <p align="center">
-  ✨ Developer that works on many cool projects.
+  ✨ Cool developer that works on many many projects and likes coding.
 </p>
 
 <hr>
@@ -19,7 +19,7 @@
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,java,js,vscode,nodejs,linux,rider" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=cs,java,js,vscode,nodejs,linux,rider,git" alt="Tech Stack" />
 </p>
 
 <hr>
