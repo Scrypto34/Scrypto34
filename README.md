@@ -1,9 +1,9 @@
 <h1 align="center">👋 Hi, I'm Scrypto</h1>
 
-<p align="center">🚀 Developer✨</p>
+<p align="center">🚀 Developer</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Software+Engineer;Cool;Passionate alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Software+Engineer;Cool;Passionate" alt="Typing SVG" />
 </p>
 
 <hr>
@@ -11,7 +11,7 @@
 <h2 align="center">🧠 About Me</h2>
 
 <p align="center">
-  ✨ Cool developer that works on many many projects and likes coding.
+  ✨ Cool developer that always likes to work on something new.
 </p>
 
 <hr>
