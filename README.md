@@ -28,5 +28,4 @@
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/parrot.client-1E90FF?style=for-the-badge&logoColor=white" alt="parrot.client" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/AU%20Development-4C1D95?style=for-the-badge&logoColor=white" alt="AU Development" /></a>
 </p>
